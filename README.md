@@ -49,3 +49,34 @@ Below are the links for Testing Activities
 * [Mind Map](https://drive.google.com/file/d/1XZz5Hbx3jpjYqbqfEE9536xeUvnF_RaU/view?usp=sharing "Mind Map")
 * [Summary Report](https://docs.google.com/document/d/1RM2u08QXJkOO1_dbcOMYFqEpqsVPUCLiEi-RzvlZ1Kg/edit?usp=sharing "Summary Report")
 ## Test Case Execution Status
+|Test Case Execution Status|Build Result|
+|---|---|
+|Total Number of Test Cases|16|
+|Passed Test Cases|10|
+|Failed Test Cases|6|
+|Blocked/Skipped Test Cases|0|
+## Defect Status
+|Defect Status|Build Result|
+|---|---|
+|Total Number|6|
+|Major|3|
+|Blocker|0|
+|Minor|3|
+|Critical|0|
+## Another with UI,Performance and more
+|Defect Status|Build Result|
+|---|---|
+|Total Number|6|
+|UI/UX|2|
+|Performance|0|
+|Functional|4|
+## Attachments
+
+
+
+
+![Screenshot 2024-07-22 044227](https://github.com/user-attachments/assets/ae4d0908-9799-4e1f-a319-8c5a0328dff9)
+
+
+![Screenshot 2024-07-22 044614](https://github.com/user-attachments/assets/88205465-8229-4d68-a3d2-b6fb75526996)
+## Recommendations and Suggesstions
