@@ -80,3 +80,8 @@ Below are the links for Testing Activities
 
 ![Screenshot 2024-07-22 044614](https://github.com/user-attachments/assets/88205465-8229-4d68-a3d2-b6fb75526996)
 ## Recommendations and Suggesstions
+* Logout Option Visibility:It must be little bit of dark compared to background.
+* Implement changes to prevent small bugs in the future.
+## Feedback
+If you have any feedback,please reach out to me at  rajawatsakshi400@gmail.com 
+
